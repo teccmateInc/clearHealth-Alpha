@@ -1,0 +1,1132 @@
+[
+ {
+   "Name": "Hospital Enche' Besar Hajjah Kalsom, Kluang",
+   "Type": "Government",
+   "State": "Johor"
+ },
+ {
+   "Name": "Hospital Kota Tinggi",
+   "Type": "Government",
+   "State": "Johor"
+ },
+ {
+   "Name": "Hospital Mersing",
+   "Type": "Government",
+   "State": "Johor"
+ },
+ {
+   "Name": "Hospital Pakar Sultanah Fatimah",
+   "Type": "Government",
+   "State": "Johor"
+ },
+ {
+   "Name": "Hospital Permai",
+   "Type": "Government",
+   "State": "Johor"
+ },
+ {
+   "Name": "Hospital Pontian",
+   "Type": "Government",
+   "State": "Johor"
+ },
+ {
+   "Name": "Hospital Segamat",
+   "Type": "Government",
+   "State": "Johor"
+ },
+ {
+   "Name": "Hospital Sultan Ismail",
+   "Type": "Government",
+   "State": "Johor"
+ },
+ {
+   "Name": "Hospital Sultanah Aminah",
+   "Type": "Government",
+   "State": "Johor"
+ },
+ {
+   "Name": "Hospital Sultanah Nora Ismail",
+   "Type": "Government",
+   "State": "Johor"
+ },
+ {
+   "Name": "Hospital Tangkak",
+   "Type": "Government",
+   "State": "Johor"
+ },
+ {
+   "Name": "Hospital Temenggong Seri Maharaja Tun Ibrahim",
+   "Type": "Government",
+   "State": "Johor"
+ },
+ {
+   "Name": "Hospital Baling",
+   "Type": "Government",
+   "State": "Kedah"
+ },
+ {
+   "Name": "Hospital Jitra",
+   "Type": "Government",
+   "State": "Kedah"
+ },
+ {
+   "Name": "Hospital Kuala Nerang",
+   "Type": "Government",
+   "State": "Kedah"
+ },
+ {
+   "Name": "Hospital Kulim",
+   "Type": "Government",
+   "State": "Kedah"
+ },
+ {
+   "Name": "Hospital Langkawi",
+   "Type": "Government",
+   "State": "Kedah"
+ },
+ {
+   "Name": "Hospital Sik",
+   "Type": "Government",
+   "State": "Kedah"
+ },
+ {
+   "Name": "Hospital Sultan Abdul Halim",
+   "Type": "Government",
+   "State": "Kedah"
+ },
+ {
+   "Name": "Hospital Sultanah Bahiyah",
+   "Type": "Government",
+   "State": "Kedah"
+ },
+ {
+   "Name": "Hospital Yan",
+   "Type": "Government",
+   "State": "Kedah"
+ },
+ {
+   "Name": "Hospital Gua Musang",
+   "Type": "Government",
+   "State": "Kelantan"
+ },
+ {
+   "Name": "Hospital Jeli",
+   "Type": "Government",
+   "State": "Kelantan"
+ },
+ {
+   "Name": "Hospital Machang",
+   "Type": "Government",
+   "State": "Kelantan"
+ },
+ {
+   "Name": "Hospital Pasir Mas",
+   "Type": "Government",
+   "State": "Kelantan"
+ },
+ {
+   "Name": "Hospital Raja Perempuan Zainab II",
+   "Type": "Government",
+   "State": "Kelantan"
+ },
+ {
+   "Name": "Hospital Sultan Ismail Petra",
+   "Type": "Government",
+   "State": "Kelantan"
+ },
+ {
+   "Name": "Hospital Tanah Merah",
+   "Type": "Government",
+   "State": "Kelantan"
+ },
+ {
+   "Name": "Hospital Tengku Anis",
+   "Type": "Government",
+   "State": "Kelantan"
+ },
+ {
+   "Name": "Hospital Tumpat",
+   "Type": "Government",
+   "State": "Kelantan"
+ },
+ {
+   "Name": "Hospital Alor Gajah",
+   "Type": "Government",
+   "State": "Melaka"
+ },
+ {
+   "Name": "Hospital Jasin",
+   "Type": "Government",
+   "State": "Melaka"
+ },
+ {
+   "Name": "Hospital Melaka",
+   "Type": "Government",
+   "State": "Melaka"
+ },
+ {
+   "Name": "Hospital Jelebu",
+   "Type": "Government",
+   "State": "Negeri Sembilan"
+ },
+ {
+   "Name": "Hospital Jempol",
+   "Type": "Government",
+   "State": "Negeri Sembilan"
+ },
+ {
+   "Name": "Hospital Port Dickson",
+   "Type": "Government",
+   "State": "Negeri Sembilan"
+ },
+ {
+   "Name": "Hospital Tampin",
+   "Type": "Government",
+   "State": "Negeri Sembilan"
+ },
+ {
+   "Name": "Hospital Tuanku Ampuan Najihah",
+   "Type": "Government",
+   "State": "Negeri Sembilan"
+ },
+ {
+   "Name": "Hospital Tuanku Ja'afar Seremban",
+   "Type": "Government",
+   "State": "Negeri Sembilan"
+ },
+ {
+   "Name": "Hospital Bentong",
+   "Type": "Government",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Hospital Jengka",
+   "Type": "Government",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Hospital Jerantut",
+   "Type": "Government",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Hospital Kuala Lipis",
+   "Type": "Government",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Hospital Muadzam Shah",
+   "Type": "Government",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Hospital Pekan",
+   "Type": "Government",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Hospital Raub",
+   "Type": "Government",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Hospital Rompin",
+   "Type": "Government",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Hospital Sultan Haji Ahmad Shah",
+   "Type": "Government",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Hospital Sultan Hj Ahmad Shah",
+   "Type": "Government",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Hospital Sultanah Hajjah Kalsom",
+   "Type": "Government",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Hospital Tengku Ampuan Afzan",
+   "Type": "Government",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Hospital Balik Pulau",
+   "Type": "Government",
+   "State": "Penang"
+ },
+ {
+   "Name": "Hospital Bukit Mertajam",
+   "Type": "Government",
+   "State": "Penang"
+ },
+ {
+   "Name": "Hospital Kepala Batas",
+   "Type": "Government",
+   "State": "Penang"
+ },
+ {
+   "Name": "Hospital Pulau Pinang",
+   "Type": "Government",
+   "State": "Penang"
+ },
+ {
+   "Name": "Hospital Seberang Jaya",
+   "Type": "Government",
+   "State": "Penang"
+ },
+ {
+   "Name": "Hospital Sungai Bakap",
+   "Type": "Government",
+   "State": "Penang"
+ },
+ {
+   "Name": "Hospital Bahagia Ulu Kinta",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Batu Gajah",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Changkat Melintang",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Gerik",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Kampar",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Kuala Kangsar",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Parit Buntar",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Raja Permaisuri Bainun",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Selama",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Seri Manjung",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Slim River",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Sungai Siput",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Taiping",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Tapah",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Teluk Intan",
+   "Type": "Government",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Tengku Fauziah",
+   "Type": "Government",
+   "State": "Perlis"
+ },
+ {
+   "Name": "Hospital Tuanku Fauziah",
+   "Type": "Government",
+   "State": "Perlis"
+ },
+ {
+   "Name": "Hospital Beaufort",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Beluran",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Duchess Of Kent",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Keningau",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Kinabatangan",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Kota Belud",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Kota Marudu",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Kuala Penyu",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Kudat",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Kunak",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Lahad Datu",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Mesra Bukit Padang",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Papar",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Pitas",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Queen Elizabeth",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Queen Elizabeth II",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Ranau",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Semporna",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Sipitang",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Tambunan",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Tawau",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Tenom",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Tuaran",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Wanita dan Kanak-Kanak Sabah",
+   "Type": "Government",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Hospital Bau",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Betong",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Bintulu",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Dalat",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Daro",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Kanowit",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Kapit",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Lawas",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Limbang",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Lundu",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Marudi",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Miri",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Mukah",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Rajah Charles Brooke Memorial",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Saratok",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Sarikei",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Sentosa",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Serian",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Sibu",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Simunjan",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Sri Aman",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hospital Umum Kuching",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Pusat Jantung Sarawak",
+   "Type": "Government",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Hosital Tanjung Karang",
+   "Type": "Government",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Ampang",
+   "Type": "Government",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Banting",
+   "Type": "Government",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Kajang",
+   "Type": "Government",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Kuala Kubu Bharu",
+   "Type": "Government",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Orang Asli",
+   "Type": "Government",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Selayang",
+   "Type": "Government",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Serdang",
+   "Type": "Government",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Shah Alam",
+   "Type": "Government",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Sungai Buloh",
+   "Type": "Government",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Tengku Ampuan Jemaah (HTAJ)",
+   "Type": "Government",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Tengku Ampuan Rahimah (HTAR)",
+   "Type": "Government",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Besut",
+   "Type": "Government",
+   "State": "Terengganu"
+ },
+ {
+   "Name": "Hospital Dungun",
+   "Type": "Government",
+   "State": "Terengganu"
+ },
+ {
+   "Name": "Hospital Hulu Terengganu",
+   "Type": "Government",
+   "State": "Terengganu"
+ },
+ {
+   "Name": "Hospital Kemaman",
+   "Type": "Government",
+   "State": "Terengganu"
+ },
+ {
+   "Name": "Hospital Setiu",
+   "Type": "Government",
+   "State": "Terengganu"
+ },
+ {
+   "Name": "Hospital Sultanah Nur Zahirah",
+   "Type": "Government",
+   "State": "Terengganu"
+ },
+ {
+   "Name": "Hospital Kuala Lumpur",
+   "Type": "Government",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Hospital Rehabilitasi Cheras",
+   "Type": "Government",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Hospital Tunku Azizah (Wanita Dan Kanak-Kanak)",
+   "Type": "Government",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Institut Perubatan Respiratori",
+   "Type": "Government",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Pusat Kawalan Kusta Negara",
+   "Type": "Government",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Hospital Labuan",
+   "Type": "Government",
+   "State": "WP Labuan"
+ },
+ {
+   "Name": "Hospital Putrajaya",
+   "Type": "Government",
+   "State": "WP Putrajaya"
+ },
+ {
+   "Name": "Institut Kanser Negara",
+   "Type": "Government",
+   "State": "WP Putrajaya"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Iskandar Puteri",
+   "Type": "Private",
+   "State": "Johor"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Tebrau",
+   "Type": "Private",
+   "State": "Johor"
+ },
+ {
+   "Name": "Gleneagles Medini",
+   "Type": "Private",
+   "State": "Johor"
+ },
+ {
+   "Name": "KPJ Bandar Maharani Specialist Hospital",
+   "Type": "Private",
+   "State": "Johor"
+ },
+ {
+   "Name": "KPJ Johor Specialist Hospital",
+   "Type": "Private",
+   "State": "Johor"
+ },
+ {
+   "Name": "KPJ Pasir Gudang Specialist Hospital",
+   "Type": "Private",
+   "State": "Johor"
+ },
+ {
+   "Name": "Pantai Hospital - Batu Pahat",
+   "Type": "Private",
+   "State": "Johor"
+ },
+ {
+   "Name": "Regency Specialist Hospital",
+   "Type": "Private",
+   "State": "Johor"
+ },
+ {
+   "Name": "Kedah Medical Centre",
+   "Type": "Private",
+   "State": "Kedah"
+ },
+ {
+   "Name": "Pantai Hospital - Sungai Petani",
+   "Type": "Private",
+   "State": "Kedah"
+ },
+ {
+   "Name": "KPJ Perdana Specialist Hospital",
+   "Type": "Private",
+   "State": "Kelantan"
+ },
+ {
+   "Name": "Mahkota Medical Centre",
+   "Type": "Private",
+   "State": "Melaka"
+ },
+ {
+   "Name": "Oriental Melaka Straits Medical Centre",
+   "Type": "Private",
+   "State": "Melaka"
+ },
+ {
+   "Name": "Pantai Hospital - Ayer Keroh",
+   "Type": "Private",
+   "State": "Melaka"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Seremban",
+   "Type": "Private",
+   "State": "Negeri Sembilan"
+ },
+ {
+   "Name": "KPJ Seremban Specialist Hospital",
+   "Type": "Private",
+   "State": "Negeri Sembilan"
+ },
+ {
+   "Name": "KPJ Pahang Specialist Hospital",
+   "Type": "Private",
+   "State": "Pahang"
+ },
+ {
+   "Name": "Gleneagles Penang Hospital",
+   "Type": "Private",
+   "State": "Penang"
+ },
+ {
+   "Name": "Island Hospital",
+   "Type": "Private",
+   "State": "Penang"
+ },
+ {
+   "Name": "KPJ Penang Specialist Hospital",
+   "Type": "Private",
+   "State": "Penang"
+ },
+ {
+   "Name": "Lam Wah Ee Hospital",
+   "Type": "Private",
+   "State": "Penang"
+ },
+ {
+   "Name": "Loh Guan Lye Hospital",
+   "Type": "Private",
+   "State": "Penang"
+ },
+ {
+   "Name": "Pantai Hospital - Penang",
+   "Type": "Private",
+   "State": "Penang"
+ },
+ {
+   "Name": "Penang Adventist Hospital",
+   "Type": "Private",
+   "State": "Penang"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Taiping",
+   "Type": "Private",
+   "State": "Perak"
+ },
+ {
+   "Name": "Hospital Fatimah",
+   "Type": "Private",
+   "State": "Perak"
+ },
+ {
+   "Name": "KPJ Ipoh Specialist",
+   "Type": "Private",
+   "State": "Perak"
+ },
+ {
+   "Name": "Pantai Hospital - Ipoh",
+   "Type": "Private",
+   "State": "Perak"
+ },
+ {
+   "Name": "Pantai Hospital - Manjung",
+   "Type": "Private",
+   "State": "Perak"
+ },
+ {
+   "Name": "Gleneagles Kota Kinabalu",
+   "Type": "Private",
+   "State": "Sabah"
+ },
+ {
+   "Name": "KPJ Sabah Specialist Hospital",
+   "Type": "Private",
+   "State": "Sabah"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Bintulu",
+   "Type": "Private",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Miri",
+   "Type": "Private",
+   "State": "Sarawak"
+ },
+ {
+   "Name": "Alpha Specialist Centre Kota Damansara",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Andorra Women and Children Hospital",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Ara Damansara Medical Centre",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Assunta Hospital",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "AVISENA Specialist Hospital ",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Beacon Hospital",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Bukit Rimau",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Cheras",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Klang",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Petaling Jaya",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Puchong",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Shah Alam",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital UMRA",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Hospital Wanita Metro Klang",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Kelana Jaya Medical Centre",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "KPJ Ampang Puteri Specialist Hospital",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "KPJ Damansara Specialist Hospital",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "KPJ Kajang Specialist Centre",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "KPJ Klang Specialist Hospital",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "KPJ Rawang Specialist Centre",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "KPJ Selangor Specialist Hospital",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "KPJ Sentosa KL Specialist Hospital",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Manipal Hospitals Klang",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Pantai Hospital - Klang",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Putra Medical Centre Sungai Buloh",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "QHC Medical Centre",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Salam Shah Alam Specialist Hospital",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Sri Kota Specialist Medical Centre",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Subang Jaya Medical Centre",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Sunway Medical Centre",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Thomson Hospital Kota Damansara ",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Tun Hussein Onn National Eye Hospital",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "University Malaya Specialist Centre",
+   "Type": "Private",
+   "State": "Selangor"
+ },
+ {
+   "Name": "Cardiac Vascular Sentral Kuala Lumpur (CVSKL)",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Columbia Asia Hospital - Setapak",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Gleneagles Hospital Kuala Lumpur",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Institut Jantung Negara",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "KPJ Sentosa Medical Centre",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "KPJ Tawakkal Specialist Hospital",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Pantai Hospital - Ampang",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Pantai Hospital - Kuala Lumpur",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Pantai Hospital Cheras",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Pantai Hospital Kuala Lumpur",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Park City Medical Centre",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Prince Court Medical Centre",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ },
+ {
+   "Name": "Tung Shin Hospital",
+   "Type": "Private",
+   "State": "WP Kuala Lumpur"
+ }
+]
